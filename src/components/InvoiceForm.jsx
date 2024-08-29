@@ -121,7 +121,7 @@ export const InvoiceForm = () => {
       <Row>
         <Col md={8} lg={9}>
           <Card className="d-flex p-4 p-xl-5 my-3 my-xl-4">
-            <span className="mb-3 d-flex justify-content-evenly fw-bold">
+            <span className="mb-3 d-flex justify-content-evenly align-items-center fw-bold">
               Maxmoc Motor Works India Private Limited
               <img style={{width:'150px'}} src={logo} alt="logo" />
             </span>

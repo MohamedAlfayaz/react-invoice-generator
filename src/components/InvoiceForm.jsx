@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Button, Card, Col, Form, InputGroup, Row } from "react-bootstrap";
 import { InvoiceItem } from "./reusable/InvoiceItem";
 import { InvoiceModal } from "./reusable/InvoiceModal";
+import logo from '../assets/logo.png'
 
 export const InvoiceForm = () => {
   const [state, setState] = useState({

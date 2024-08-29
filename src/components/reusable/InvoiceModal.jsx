@@ -31,7 +31,7 @@ export const InvoiceModal = (props) => {
               Invoice #:{props.info.invoiceNumber}
             </h6>
           </div>
-          <img  style={{width:'200px'}} src="src/assets/logo.png" alt="logo" />
+          <img  style={{width:'200px'}} src="assets/logo.png" alt="logo" />
           <div className="text-end ms-4">
             <h6 className="fw-bold mt-1 mb-2">Amount&nbsp;Due:</h6>
             <h5 className="fw-bold text-secondary">

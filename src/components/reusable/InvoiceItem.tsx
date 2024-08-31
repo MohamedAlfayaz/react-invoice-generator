@@ -13,7 +13,7 @@ export const InvoiceItem = (props) => {
       <Table>
         <thead>
           <tr>
-            <th>Sr.No</th>
+            <th>Item</th>
             <th>Quantity</th>
             <th>Amount/Rate</th>
             <th className="text-center">Action</th>
